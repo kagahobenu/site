@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="login.css" />
+<link rel="stylesheet" href="assets/css/login.css" />
 
 <div class="login">
     <div class="login-triangle"></div>
