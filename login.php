@@ -1,8 +1,13 @@
-<?php
+<link rel="stylesheet" href="login.css" />
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<div class="login">
+    <div class="login-triangle"></div>
 
+    <h2 class="login-header">Log in</h2>
+
+    <form class="login-container">
+        <p><input type="email" placeholder="Email"></p>
+        <p><input type="password" placeholder="Password"></p>
+        <p><input type="submit" value="Log in"></p>
+    </form>
+</div>
