@@ -3,6 +3,8 @@
 //Meu código PHP vem aqui.
 //Meu professorrrr!!!!!
 
+echo "Testando essa parada";
+
 $pg = $_GET['pg'];
 
 switch ($pg) {
