@@ -1,6 +1,7 @@
 <?php
 
 //Meu código PHP vem aqui.
+//Meu professorrrr!!!!!
 
 $pg = $_GET['pg'];
 
